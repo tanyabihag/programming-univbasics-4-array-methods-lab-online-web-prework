@@ -3,7 +3,7 @@ def using_include(array, element)
 end
 
 def using_sort(array, tanya, love)
-  using_sort.sort
+  sorted_cats = using_sort.sort
 
 end
 
