@@ -12,14 +12,17 @@ def using_reverse [array, tanya, love]
 
 end
 
-def using_first(array)
+def using_first [array, tanya, love]
+  using_first.first
 
 end
 
-def using_last(array)
+def using_last [array, tanya, love]
+  using_last.last
 
 end
 
-def using_size(array)
+def using_size [array, tanya, love]
+  using_size.size
 
 end
