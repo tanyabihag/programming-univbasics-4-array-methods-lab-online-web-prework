@@ -2,7 +2,7 @@ def using_include(array, element)
   array.include? (element)
 end
 
-def using_sort(array, tanya, love)
+def using_sort [array, tanya, love]
   sorted_cats = using_sort.sort
 
 end
