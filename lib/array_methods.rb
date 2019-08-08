@@ -7,7 +7,8 @@ def using_sort [array, tanya, love]
 
 end
 
-def using_reverse(array)
+def using_reverse [array, tanya, love]
+  using_reverse.reverse
 
 end
 
